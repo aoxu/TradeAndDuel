@@ -2,7 +2,7 @@
 [点击这里进入Trade and Duel 问题跟踪](https://github.com/aoxu/TradeAndDuel/issues)
 
 # 首次使用指南
-1. [点击此处](https://github.com/settings/profile)进入头像设置，上传与QQ一样的头像，方便识别。
+1. [点击此处](https://github.com/settings/profile)进入头像设置，上传与QQ一样的头像，Name（显示名称）改成你在公司的英文名，方便他人识别。
 2. 在本页面右上角有个**Watch**按钮可以设置通知，点击按钮可以选择是否接受通知（通知邮件会自动发送到注册的邮箱里）。
 3. 为了加快Github的网页打开速度，可以在科学上网软件设置里，加入以下域名，可以实现秒开：
 ```
